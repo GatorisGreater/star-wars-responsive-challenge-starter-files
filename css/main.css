@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #252525;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+header {
+  background-color: #ffb833;
+  margin-bottom: 40px;
+}
+
+.title {
+  margin: auto;
+  padding: 5px;
+}
+
+.box {
+  height: 200px;
+  text-align: center;
+  border: 1px solid #E5E5E5;
+}
+
+body p {
+  font-size: 13px;
+  padding-left: 5px;
+}
+
+h3 {
+  padding-left: 5px;
+  margin-top: 10px;
+  margin-bottom: -5px;
+}
+.card {
+  border: 1px solid #E5E5E5;
+  margin-bottom: 20px;
+}
+
+.rey {
+  background-color: white;
+  border: 1px solid #E5E5E5;
+  width: 100%;
+  height: 100%;
+}
+
+.finn {
+  background-color: white;
+  border: 1px solid #E5E5E5;
+  width: 100%;
+  height: 100%;
+}
+
+.kylo {
+  background-color: white;
+  border: 1px solid #E5E5E5;
+  width: 100%;
+  height: 100%;
+}
+
+.poe {
+  background-color: white;
+  border: 1px solid #E5E5E5;
+  width: 100%;
+  height: 100%;
+}
+
+.chewbacca {
+  background-color: white;
+  border: 1px solid #E5E5E5;
+  width: 100%;
+  height: 100%;
+}
+
+.yoda {
+  background-color: white;
+  border: 1px solid #E5E5E5;
+  width: 100%;
+  height: 100%;
+}
